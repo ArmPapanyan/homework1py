@@ -36,11 +36,11 @@
 # 3 2 4 -> yes
 # 3 2 1 -> no
 
-n = int(input())
-m = int(input())
-k = int(input())
+# n = int(input())
+# m = int(input())
+# k = int(input())
 
-if k % n == 0 or k % m == 0:
-    print('YES')
-else:
-    print('NO')
+# if k % n == 0 or k % m == 0:
+#     print('YES')
+# else:
+#     print('NO')
